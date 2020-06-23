@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string name="splash_1">A Complete Pathology &amp; Healthcare Center</string>
+    <string name="splash_2">By continuing you agree to Terms &amp; Conditions</string>
+    <string name="OTP_text_1">Enter your registered mobile number</string>
+    <string name="OTP_text_2">We will send you the OTP to verify later</string>
+    <string name="OTP_text_3">Submit</string>
+    <string name="OTP_text_4">Enter OTP</string>
+    <string name="OTP_text_5">We have send you an SMS on </string>
+    <string name="OTP_text_6">with 6 digit verification OTP.</string>
+    <string name="OTP_text_7">Did not receive the code?</string>
+    <string name="text_resend">Re-send</string>
+    <string name="text_call">Get a call now</string>
+</resources>
