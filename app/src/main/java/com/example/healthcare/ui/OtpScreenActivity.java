@@ -177,6 +177,7 @@ public class OtpScreenActivity extends AppCompatActivity {
         country = getIntent().getStringExtra("country");
         contactNum = getIntent().getStringExtra("contactNum");
 
+        // Comment in init()
 
         id_contactNumber_txt.setText(getResources().getString(R.string.OTP_text_5)+" "+country+" "+contactNum);
     }
