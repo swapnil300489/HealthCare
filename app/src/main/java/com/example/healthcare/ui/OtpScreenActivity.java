@@ -16,7 +16,7 @@ import com.example.healthcare.R;
 
 public class OtpScreenActivity extends AppCompatActivity {
 
-    private String country = "", contactNum = "";
+    private String country = "India", contactNum = "";
     private EditText editText1;
     private EditText editText2;
     private EditText editText3;
